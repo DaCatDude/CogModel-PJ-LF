@@ -1,0 +1,17 @@
+# to use this enviroment, please run: conda env create --file environment.yml
+# To update, run: conda env update --file environment.yml --prune
+# to delete and reinstall, run conda env remove --name <name>
+name: cogmodeling
+dependencies:
+  - python == 3.12
+  - pip
+  - pip:
+    - matplotlib >= 3.10.0
+    - numpy >= 1.26.3
+    - numba >= 0.60.0
+    - seaborn >= 0.13.2
+    - scipy >= 1.15.1
+    - ipython >= 8.26.0
+    - notebook >= 7.3.2
+    - pystan 3.10.0
+    - tensorflow >= 2.10.0
