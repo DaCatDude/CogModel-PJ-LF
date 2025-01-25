@@ -9,4 +9,4 @@ Cognitive modeling itself is a very interdiciplinary venture. It encapsulates pa
 
 Cognitive modeling is also heavily used to attempt to predict human behavior in certain situations. Using models like this, we can perform more research into phsychology and cognition itself. There is a fair amount of research where we attempt to create a model that emulates the human brain. This is still a work in progress, specifically because it is difficult to scale our computer models to the size of a human brain. This relationship between cognitive modeling and cognitive science goes both ways, as we take a lot of inspiration from how the brain works, especially in areas like image recognition. While there are still certain things that the brain does that we find difficult emulate (like learning without backpropogation), overall the existance of cognitive modeling is vital to both fields.
 
-#The merge conflict is here (Pratheet-branch)
+#The merge conflict is here (main)
